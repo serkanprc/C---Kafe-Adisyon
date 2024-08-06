@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kafe_adisyon_uygulaması", "kafe_adisyon_uygulaması\kafe_adisyon_uygulaması.csproj", "{BB97DFA4-8C72-4716-BC63-153136177684}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{B48E7C4D-CA07-44D3-91C7-5BD1F4905116}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje.sln = ..\..\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB97DFA4-8C72-4716-BC63-153136177684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB97DFA4-8C72-4716-BC63-153136177684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB97DFA4-8C72-4716-BC63-153136177684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB97DFA4-8C72-4716-BC63-153136177684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16DE4A77-E84A-43AC-9AF9-01CC49F31FF8}
+	EndGlobalSection
+EndGlobal
